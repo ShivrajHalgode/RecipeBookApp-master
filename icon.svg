@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="/home/madram/programs/android/RecipeBook/fryingpan.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5949103"
+     inkscape:cx="368.98626"
+     inkscape:cy="384.66112"
+     inkscape:window-width="1886"
+     inkscape:window-height="1024"
+     inkscape:window-x="17"
+     inkscape:window-y="39"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#1a1a1a;stroke-width:0.264583"
+       id="path504"
+       cx="73.162415"
+       cy="105.21579"
+       r="58.939461" />
+    <ellipse
+       style="fill:#333333;stroke-width:0.350975"
+       id="path550"
+       cx="73.52993"
+       cy="105.34965"
+       rx="51.826183"
+       ry="51.276901" />
+    <rect
+       style="fill:#1a1a1a;stroke-width:0.229971"
+       id="rect672"
+       width="32.81398"
+       height="14.75362"
+       x="128.02705"
+       y="98.321045" />
+    <ellipse
+       style="fill:#f2f2f2;stroke-width:0.264583"
+       id="path734"
+       cx="93.390572"
+       cy="119.65313"
+       rx="22.305754"
+       ry="17.394598" />
+    <circle
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="path786"
+       cx="89.951073"
+       cy="125.78978"
+       r="8.0836039" />
+    <ellipse
+       style="fill:#f2f2f2;stroke-width:0.264583"
+       id="path814"
+       cx="46.42572"
+       cy="105.07167"
+       rx="17.897499"
+       ry="14.821209" />
+    <circle
+       style="fill:#ffcc00;stroke-width:0.264583"
+       id="path884"
+       cx="48.468555"
+       cy="109.67993"
+       r="7.9739022" />
+  </g>
+</svg>
